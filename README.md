@@ -6,7 +6,7 @@
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/SudhakaranGT/JobBoard.git
+    https://github.com/SudhakaranGT/LeaveManager.git
     ```
 
 ### Creating a Branch:
