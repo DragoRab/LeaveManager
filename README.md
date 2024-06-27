@@ -49,3 +49,4 @@
 
 8. If you're ready to merge your changes into the main branch, create a pull request on GitHub and request a code review.
 
+https://chatgpt.com/share/f9ac95f3-8cfa-4da6-9816-2585158b5a3e
